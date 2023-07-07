@@ -1,0 +1,29 @@
+body{
+    background-image: radial-gradient(#862B0D, #F1C27B, #EA906C);
+
+}
+.dice{
+    display: inline-block;
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+    margin-left: 20%;
+    font-size: 3rem;
+    
+}
+h1{
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+    font-size: 4rem;
+    color: firebrick;
+}
+.image{
+    width: 50%;
+}
+footer{
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+    color:khaki;
+}
+p{
+    color:darkgreen;
+}
