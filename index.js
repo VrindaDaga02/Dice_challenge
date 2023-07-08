@@ -10,10 +10,10 @@ document.querySelectorAll("img")[1].setAttribute("src",randomimage2);
 
 
 if(randomimage>randomimage2){
-    document.querySelector("h1").innerHTML="🏆SODI Wins!!";
+    document.querySelector("h1").innerHTML="🏆Player1 WINS!!";
 }
 else if(randomimage<randomimage2){
-    document.querySelector("h1").innerHTML="🏆SOPU Wins!!";
+    document.querySelector("h1").innerHTML="🏆Player2 Wins!!";
 }
 else{
     document.querySelector("h1").innerHTML="OOps! It's a DRAW";
